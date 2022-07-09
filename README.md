@@ -7,7 +7,7 @@ Projeto de Autenticação de usuário
 
 # 📖 Descrição do Projeto 📖 
 
-Projeto 
+Projeto de Autenticação de usuário.
 
 # 🛠️ Tecnologias aprendidas e utilizadas 🛠️
 
